@@ -64,7 +64,7 @@ drupalionic/behat/bin
 drupalionic/behat/composer.phar
 
 # Temporay "build" files
-www
+/www
 
 # Local Configuration
 config.sh
